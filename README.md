@@ -4,7 +4,7 @@
 ## Setup
 
 uv venv -p 3.11
-uv pip install -r requirements.txt
+uv pip install -r pyproject.txt
 
 ## Run CLI
 
